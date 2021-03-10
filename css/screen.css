@@ -22,6 +22,8 @@ html {
   font-family: "droid-serif", Georgia, serif;
   color: #5c5366;
   padding: 48px 24px 24px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
